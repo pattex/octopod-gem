@@ -1,6 +1,6 @@
 # Octopod
 
-TODO: Write a gem description
+The octopod gem wraps and extends the [jekyll](https://github.com/mojombo/jekyll) command line tool for the needs of [octopod – podcast delivery for geeks](https://github.com/pattex/octopod).
 
 ## Installation
 
@@ -16,14 +16,3 @@ Or install it yourself as:
 
     $ gem install octopod
 
-## Usage
-
-TODO: Write usage instructions here
-
-## Contributing
-
-1. Fork it
-2. Create your feature branch (`git checkout -b my-new-feature`)
-3. Commit your changes (`git commit -am 'Add some feature'`)
-4. Push to the branch (`git push origin my-new-feature`)
-5. Create new Pull Request
